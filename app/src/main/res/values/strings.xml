@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Quiz Bowl</string>
+    <string name="individual">Individual</string>
+    <string name="group">Group</string>
+    <string name="timed">Timed</string>
+    <string name="title_activity_solo_quiz">SoloQuiz</string>
+    <string name="maxTimeHint">Time per question, from 15 to 120s</string>
+
+    <string name="question">Question_Placeholder</string>
+    <string name="answerA">A_Placeholder</string>
+    <string name="answerB">B_Placeholder</string>
+    <string name="answerC">C_Placeholder</string>
+    <string name="answerD">D_Placeholder</string>
+    <string name="title_activity_sign_in">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_sign_up">Sign in</string>
+</resources>

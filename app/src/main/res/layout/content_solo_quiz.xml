@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/solo_quiz"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/Q"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/question"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimary"
+        />
+
+    <Button
+            android:id="@+id/A"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/answerA"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:background="#ffffff"
+            android:onClick="chooseA"
+            />
+        <Button
+            android:id="@+id/B"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/answerB"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:background="#ffffff"
+            android:onClick="chooseB"
+            />
+        <Button
+            android:id="@+id/C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/answerC"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:background="#ffffff"
+            android:onClick="chooseC"
+            />
+
+    <Button
+        android:id="@+id/D"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/answerD"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:background="#ffffff"
+        android:onClick="chooseD"
+        />
+
+    <ProgressBar
+            android:id="@+id/time_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            />
+</LinearLayout>

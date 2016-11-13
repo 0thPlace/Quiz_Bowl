@@ -1,0 +1,26 @@
+How many digits does the number 25^8 8^7 have?_(A)17_!(B)18_(C)19_(D)20P
+In a class 30 Students, 20 students study History, 16 students study Chemistry, and 3 students study Neither, How many students study both?_(A)4_(B)6_(C)8_!(D)9
+If a+b=2 and a^2+b^2=3 then whaty is a^3+b^3=?_(A)4_!(B)5_(C)6_(D)7
+A 24 inch piece of of string is folded in thirds, and then all three strands are cut 3/5th of the way from one end to the other. What is the length, in inches,of the longest piece of string that results?_(A)24/5_!(B)28/5_(C)32/5_(D)42/5_(E)48/5
+sqrt 243 is closet to which of the following numbers?_(A)13_(B)14_(C)15_!(D)16
+What is the area of the regiion in the the x-y planes satisfying the inequalities of xy<=0 and x+1<=y<=x+2?_(A)1/2_(B)1_!(C)3/2_(D)2
+The set [3]={1,2,3} has 8=2^3 subsets: {{1,2,3},{1,3},{2,3},{1},{2},{3},{ }}. The set [8]={1,2,3,4,5,6,7,8} has 256=2^8 sunsets. If you add the elements of each of the 256 subsets of [8] together, and then add those 256 sums togerther, what will the total be?_(A)2048_B)3072_(C)3600_!(D)4608_(E)4800
+The area od the largetst triangle that can be inscribed in a semi-circle of radius r is?_!(A)r^2_(B)2r^2_(C)2r^3_(D)none of these
+Among all ordered pairs of real numbers (x,y) which satisfy x^2+y^2=x+y, what is the largest value of x?_(A)(2-sqrt3)/2_!(B)(1+sqrt2)/2_(C)(1+sqrt3)/3_(D)(2-sqrt2)/3
+If f(x)=5-2x, than what is f(f(f(3)))?_!(A)-9_(B)-3_(C)-1_(D)3
+a dog is tied to the corner of a 10 foot by 20 foot building by a 12 foot leash. what is the area (in square feet) of the regiom that the fog can reach?_(A)88Pi_(B)99Pi_(C)105Pi_(D)115Pi
+Two circles of radious 3 each pass through the center of the other. What is the area of the region that lies inside of both circle?_!(A)6Pi-9(sqrt3)/2_(B)4Pi+3sqrt3/2_(C)9Pi-3sqrt3_(D)8Pi-3sqrt3/2
+The values of x which satisfy both AB(x-4)>5 and ab(x-5)<6 are precisely the values of which x satidfy a<x<b. wha tis a+b?_(A)2_(B)8_(C)10_!(D)20
+Find the sum of all the real roots of the equation ab(X+2)^(x^2+6x+8)=1._(A)10_!(B)-8_(C)-7_(D)-6
+In what base b does 23(baseB)+45(baseB)=101(baseB)?_(A)5_!(B)7_(C)8_(D)10
+You and your sister have identical wardrobes: ypu have 3 green shirts, 4 red shirts, and 5 blue shirts. If both of you choose shirts independently in a uniformly random fashion, what is the probability the two of you will wear the same color shirt?_(A)1/4_(B)1/2_!(C)25/72_(D)43/144
+Given that (2/x)-(2/y)=1 and y-x=1, find (x+y)^2._(A)2_(B)4_!(C)9_(D)16
+Find the sum of all roots of the equation 3^(Log(base3)x)^2+x^(Log(base3)x)=6._(A)7/3_!(B)10/3_(C)37/3_(D)22/3
+The sum of the third and the Seventh members of an increasing arithmetic sequwnce is 24and their product is 128. what is the common differnece of the arithmetic sequence?_(A)-2_!(B)2_(C)3_(D)-3
+How many positive intergers less than 1000 are 3 more than a multiple of 5 and 2 less than a multiple of 11?_(A)0_(B)54_!(C)18_(D)55
+Two evenly matched teams (meaning each team has an equal chance to win each game) play up to 7 games. The first team to win 4 games wins the series. What is the probability that the series ends in 4 or 5 games?_(A)1/8_(B)1/4_!(C)3/8_(D)1/32
+What number must be subtracted from the number 83,593 and 50,694 to obtain the positive difference of therse two numbers?_(A)134,287_(B)23,612_!(C)101,388_(D)13,612
+How many roots does the equation ((x-1)((x^2)-9)((x^2)-16))/(log(x+2))=0 have?_(A)1_(B)4_!(C)2_(D)5
+There is a natural number n such that A=n^2=2008n, written in decimal notion, ends in 4. Find the digit in the ten's place in A._(A)0_(B)2_(C)6_!(D)8
+Two sets of 10 carsd each labeled with numbers fromm 1-10(with no repetitions). One card is drawn at random from each set. What the probability the two drawn cards contain identical numbers?_(A)1/4_(B)1/2_!(C)1/10_(D)1/100
+A rhombus has the length of one diagonal equal to 7.2 units and an area of 34.56 square units. What is the Perimeter of the rhombus?_!(A)24_(B)6_(C)12_(D)18

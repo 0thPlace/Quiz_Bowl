@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "874040795660",
+    "firebase_url": "https://quiz-bowl-e9002.firebaseio.com",
+    "project_id": "quiz-bowl-e9002",
+    "storage_bucket": "quiz-bowl-e9002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874040795660:android:1b07ff5b79be653e",
+        "android_client_info": {
+          "package_name": "com.example.trivia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874040795660-v5nbgttrurdgrshq96pjattbmdv25ig3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoiSHrDag74GuWuRvJ-egE5CScIYUfPMU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
